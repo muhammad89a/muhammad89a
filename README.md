@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhammad89a
 - 👀 I’m interested in new technologies
-- 🌱 I’m currently learning fullstack react & node.js
+- 🌱 I’m a full-stack react/angular & node.js/nest.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me: mohammed.89a@gmail.com  
 
